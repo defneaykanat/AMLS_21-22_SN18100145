@@ -25,4 +25,3 @@ In this project, a binary and multiclass classifier has been built for identifyi
 # Running the Code
 
 For running the code, download all the code files as well as the aforementioned data containing folders. Open Anaconda.Navigator and install all the libraries given above into an environment. Install and run Jupyter Notebook through Anaconda.Navigator. Locate the folder containing the code and the data folders. Open the tasks one by one and run the cells.
-
